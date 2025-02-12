@@ -1,2 +1,4 @@
-def return_not_none():
-    return None
+# lib/not_none_functions.py
+
+def your_function():
+    return "This is not None"
